@@ -1,0 +1,27 @@
+.jumbotron {
+    padding-top:4rem;
+    background-color: #abd1c6;
+    font-size: 2rem;
+}
+#piket {
+    background-color: #abd1c6;
+}
+#project {
+    background-color: #abd1c6;
+}
+
+.instagram {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding: none;
+}
+#abot {
+    padding: 4rem;
+}
+#project {
+    padding: 4rem;
+}
+#yossha_my {
+    padding: 3.5rem;
+}
